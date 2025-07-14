@@ -1,0 +1,21 @@
+# Angular
+/node_modules/
+/dist/
+
+# Spring Boot
+/target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Database
+*.db
+*.sql

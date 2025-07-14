@@ -1,0 +1,2 @@
+till now- project is running , no errors there. login,registration,logout,add product are successfully working.placebid successfully working in database--now we will start bid history display in next part.
+--database is working in CLI. backend and frontend working in vscode.dont add extra stuff to the code. just give basic instruction to achieve next challenge.keep simple,basic.
