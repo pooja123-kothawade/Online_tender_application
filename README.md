@@ -13,6 +13,9 @@ A simple tender management system built with:
 ## Setup
 1. Backend: `mvn spring-boot:run`
 2. Frontend: `ng serve`
+
+Wireframe : https://www.figma.com/community/file/1542375502041477364
+   
 ONLINE TENDER SYSTEM
 <img width="1366" height="768" alt="registration page" src="https://github.com/user-attachments/assets/91c5c7ed-971b-4c8c-bbf5-0a1265616368" />
 <img width="1366" height="768" alt="login page" src="https://github.com/user-attachments/assets/c5db745a-56c1-47c8-8712-2036db698df2" />
